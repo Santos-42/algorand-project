@@ -6,8 +6,9 @@ LandChain is a decentralized land registration and certificate management system
 
 ### 🔥 Project Link
 - Application ID: 748980130
+- Deployed Frontend With Connect Wallet Link: https://landchain-flax.vercel.app
 - Deployed Smart Contract Link: https://lora.algokit.io/testnet/application/748980130
-- Deployed Frontend Link: https://landchain-7hxn7zq89-santos-42s-projects.vercel.app
+- Deployed Frontend Trial Link: https://landchain-gamma.vercel.app
 
 
 ### 🎯 What It Does
